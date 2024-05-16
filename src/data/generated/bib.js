@@ -1,0 +1,122 @@
+﻿define({ entries : {
+    "4219018": {
+        "author": "Chen, Wayne Y. and Payandeh, Shahram",
+        "booktitle": "2007 IEEE Symposium on Computational Intelligence and Games",
+        "doi": "10.1109/CIG.2007.368073",
+        "keywords": "Engines;Robot kinematics;Orbital robotics;Intelligent robots;Computational modeling;Robot control;Mobile robots;Robot sensing systems;Laboratories;Design engineering;Game Engine;Robot Hockey;Artificial Potential Field",
+        "number": "",
+        "pages": "9-16",
+        "title": "Micro Robot Hockey Simulator - Game Engine Design",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2007"
+    },
+    "6119852": {
+        "author": "Ogawa, Masaya and Shimizu, Sota and Kadogawa, Takumi and Hashizume, Takumi and Kudoh, Shunsuke and Suehiro, Takashi and Sato, Yoshihiro and Ikeuchi, Katsushi",
+        "booktitle": "IECON 2011 - 37th Annual Conference of the IEEE Industrial Electronics Society",
+        "doi": "10.1109/IECON.2011.6119852",
+        "keywords": "Humans;Robot kinematics;Trajectory;Process control;Cameras;Robot vision systems",
+        "number": "",
+        "pages": "3364-3369",
+        "title": "Development of Air Hockey Robot improving with the human players",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2011"
+    },
+    "6147429": {
+        "author": "Arai, Yusuke and Kagami, Shingo and Hashimoto, Koichi",
+        "booktitle": "2011 IEEE/SICE International Symposium on System Integration (SII)",
+        "doi": "10.1109/SII.2011.6147429",
+        "keywords": "Humans;Trajectory;Robots;Games;Visualization;Machine vision;Accuracy",
+        "number": "",
+        "pages": "112-117",
+        "title": "Experimental studies on prediction in air hockey games",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2011"
+    },
+    "6630722": {
+        "author": "Namiki, Akio and Matsushita, Sakyo and Ozeki, Takahiro and Nonami, Kenzo",
+        "booktitle": "2013 IEEE International Conference on Robotics and Automation",
+        "doi": "10.1109/ICRA.2013.6630722",
+        "keywords": "Robots;Games;Histograms;Trajectory;Switches;Vectors",
+        "number": "",
+        "pages": "1187-1192",
+        "title": "Hierarchical processing architecture for an air-hockey robot system",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2013"
+    },
+    "7020736": {
+        "author": "Marra, Christopher and Cattenazzi, Damian and Masinovic, Adnan and Zheng, Jinchuan",
+        "booktitle": "Proceedings of 2014 International Conference on Modelling, Identification & Control",
+        "doi": "10.1109/ICMIC.2014.7020736",
+        "keywords": "Actuators;Cameras;Machine vision;Prediction algorithms;Robots;Accuracy;Standards",
+        "number": "",
+        "pages": "105-110",
+        "title": "Design and implementation of a vision-based robotic air hockey table",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2014"
+    },
+    "7419040": {
+        "author": "Igeta, Kazuki and Namiki, Akio",
+        "booktitle": "2015 IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+        "doi": "10.1109/ROBIO.2015.7419040",
+        "keywords": "Games;Trajectory;Robot kinematics;Decision making;Mathematical model",
+        "number": "",
+        "pages": "1840-1845",
+        "title": "A decision-making algorithm for an air-hockey robot that decides actions depending on its opponent player's motions",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2015"
+    },
+    "768537": {
+        "author": "Bishop, B.E. and Spong, M.W.",
+        "doi": "10.1109/37.768537",
+        "journal": "IEEE Control Systems Magazine",
+        "keywords": "Robot vision systems;Robot kinematics;Robot sensing systems;Foot;Working environment noise;Error correction;Manipulators;Feedback;Computer vision;Sensor systems",
+        "number": "3",
+        "pages": "23-32",
+        "title": "Vision-based control of an air hockey playing robot",
+        "type": "ARTICLE",
+        "volume": "19",
+        "year": "1999"
+    },
+    "8252956": {
+        "author": "Taitler, Ayal and Shimkin, Nahum",
+        "booktitle": "2017 International Conference on Control, Artificial Intelligence, Robotics & Optimization (ICCAIRO)",
+        "doi": "10.1109/ICCAIRO.2017.14",
+        "keywords": "Games;Neural networks;Robots;Machine learning;Heuristic algorithms;Standards",
+        "number": "",
+        "pages": "22-27",
+        "title": "Learning Control for Air Hockey Striking Using Deep Reinforcement Learning",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2017"
+    },
+    "9636263": {
+        "author": "Liu, Puze and Tateo, Davide and Bou-Ammar, Haitham and Peters, Jan",
+        "booktitle": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "doi": "10.1109/IROS51168.2021.9636263",
+        "keywords": "Uncertainty;Service robots;Games;Robot sensing systems;Trajectory;Task analysis;Robots",
+        "number": "",
+        "pages": "586-593",
+        "title": "Efficient and Reactive Planning for High Speed Robot Air Hockey",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2021"
+    },
+    "9867354": {
+        "author": "Xiao, Hui and Chen, Xu",
+        "booktitle": "2022 American Control Conference (ACC)",
+        "doi": "10.23919/ACC53348.2022.9867354",
+        "keywords": "Visualization;Target tracking;Atmospheric modeling;Robot vision systems;Games;Vision sensors;Robot sensing systems",
+        "number": "",
+        "pages": "3771-3776",
+        "title": "Target Tracking with Frame- and Event-based Cameras Involving Delayed and Irregularly-Sampled Visual Feedback for a Robotic Air-Hockey System",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2022"
+    }
+}});
